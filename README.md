@@ -5,11 +5,17 @@ I'm Rohan Naagar, a cybersecurity engineer and tech enthusiast! 🚀
 Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and **AI Enthusiast**. I love working with cutting-edge technologies and constantly expanding my knowledge in areas like **Artificial General Intelligence (AGI)**, **Machine Learning**, and **Cybersecurity**. 
 
 # 💫 About Me:
-⚡Founder- RxpexInfinity<br>🔭 I’m currently working on RI<br>👯 I’m looking to collaborate on RI<br>🤝 I’m looking for help with Algorithms.<br>🌱 I’m currently learning Machine learning and artificial intelligence.<br>💬 Myself Rohan Naagar<br>⚡ Nothing is finite
-
+💬 Myself Rohan Naagar<br>
+⚡Founder- RxpexInfinity<br>
+🤝 I’m looking for help with Algorithms.<br>
+👀  I’m currently learning Artificial intelligence(AI),Artificial General Intelligence (AGI), Machine Learning, Deep Learning, Natural Language Processing and Large Language Models.<br>
+🌱 Research Interests: Deep Learning, OpenCV, LLMs.<br>
+😊 Build technologies that increase the cumulative density of magic in the world!<br>
+⚡ Nothing is finite<br>
+📍 Gurugram, Haryana<br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5MqMm78b)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chrohangurjar1)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chrohangurjar1/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naagar-779310322/)  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28312314/rohan)  [![Google Developers](https://img.shields.io/badge/Google%20Developers-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/Chrohangurjar)  [![Commudle](https://img.shields.io/badge/Commudle-%23F9A602.svg?logo=google-chrome&logoColor=white)](https://www.commudle.com/users/chrohangurjar)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/chrohangurjar/)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:Rohan150907@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/919466386495)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/chrohangurjar)  [![SMS](https://img.shields.io/badge/SMS-0A74DA.svg?logo=sms&logoColor=white)](sms:+919466386495)  [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/chrohangurjar)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GtmzfW5Wap)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chrohangurjar1)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chrohangurjar1/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naagar-779310322/)  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28312314/rohan)  [![Google Developers](https://img.shields.io/badge/Google%20Developers-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/Chrohangurjar)  [![Commudle](https://img.shields.io/badge/Commudle-%23F9A602.svg?logo=google-chrome&logoColor=white)](https://www.commudle.com/users/chrohangurjar)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/chrohangurjar/)  [![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/RohanCyberOps)
 
 
 # 💻 Tech Stack:
@@ -34,9 +40,9 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![Android](https://img.shields.io/badge/android-%23FF9900.svg?style=for-the-badge&logo=android&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RohanNaagar666&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RohanNaagar666&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNaagar666&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=chrohangurjar&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chrohangurjar&theme=flag-india&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrohangurjar&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -67,5 +73,5 @@ We want to give a huge shoutout to everyone who has contributed to the project! 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
-[![](https://visitcount.itsvg.in/api?id=RohanNaagar666&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=chrohangurjar&icon=2&color=0)](https://visitcount.itsvg.in)
 ---
